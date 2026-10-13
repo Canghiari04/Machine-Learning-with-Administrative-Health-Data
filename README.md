@@ -1,2 +1,1 @@
-# Machine-Learning-with-Administrative-Health-Data
-Collection of notes and exercises Machine Learning with Administrative Health Data 2026/2027
+Collection of notes and exercises Machine Learnings with Administrative Health Data (DS844) of the Degree Data Science
