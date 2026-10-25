@@ -217,4 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-.old/
+.not_to_push/
+
+Assignment_1/data
